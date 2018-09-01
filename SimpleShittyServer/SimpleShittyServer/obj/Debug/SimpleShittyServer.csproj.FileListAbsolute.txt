@@ -1,0 +1,7 @@
+C:\Users\Redliss\source\repos\SimpleShittyServer\SimpleShittyServer\obj\Debug\SimpleShittyServer.csprojAssemblyReference.cache
+C:\Users\Redliss\source\repos\SimpleShittyServer\SimpleShittyServer\obj\Debug\SimpleShittyServer.csproj.CoreCompileInputs.cache
+C:\Users\Redliss\source\repos\SimpleShittyServer\SimpleShittyServer\bin\Debug\SimpleShittyServer.exe.config
+C:\Users\Redliss\source\repos\SimpleShittyServer\SimpleShittyServer\bin\Debug\SimpleShittyServer.exe
+C:\Users\Redliss\source\repos\SimpleShittyServer\SimpleShittyServer\bin\Debug\SimpleShittyServer.pdb
+C:\Users\Redliss\source\repos\SimpleShittyServer\SimpleShittyServer\obj\Debug\SimpleShittyServer.exe
+C:\Users\Redliss\source\repos\SimpleShittyServer\SimpleShittyServer\obj\Debug\SimpleShittyServer.pdb
